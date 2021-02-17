@@ -1,0 +1,41 @@
+/* body {
+    color: red;
+}
+
+.black-border {
+    border: 5px solid black;
+}
+
+#green-background {
+    background-color: green;
+} */
+
+body {
+    background-color: #734046;
+    color: #321f28;
+    font-family: Helvetica, sans-serif;
+}
+
+a {
+    color: #e79e4f;
+}
+
+header {
+    background-color: #321f28;
+    color: #a05344;
+    text-align: center;
+    border: 10px solid #a05344;
+    border-radius: 50px;
+}
+
+nav {
+    font-size: 2em;
+}
+
+h1, h2 {
+    font-size: 4em;
+}
+
+ol {
+    border: 3px dashed black;
+}
